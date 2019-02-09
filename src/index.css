@@ -1,0 +1,23 @@
+body{
+    background-color: #005547;
+    height: 100vh;
+}
+input{
+    margin: 10px;
+    border-radius: 5px;
+    outline-style: none;
+    border: 2px solid #00ffaa;
+    padding: 5px;
+}
+span{
+    color: white;
+    border: 2px solid #00ffaa;
+    padding: 2px 10px;
+    border-radius: 4px;
+    height: 23px;
+    margin-top: 10px;
+}
+div{
+    display: flex;
+    justify-content: center;
+}
